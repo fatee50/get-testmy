@@ -269,3 +269,147 @@ mv ./pythonscript.py ./pythonscript.py
 mv ./pytonscript.py ./pythonscript.py
 ls -la
 mcedit ./pythonscript.py
+clear
+ls -la
+clear
+date
+ls -la
+git init
+git branch -m main
+git status
+git branch
+git branch -m main
+sudo git branch -m main
+git add
+git add .
+git commit -m 'Init'
+git branch -m main
+git branch -M main
+git commit -m 'init'
+git status
+git branch -m main
+git commit -m 'Init'
+git commit -m 'init repo'
+git config --local -l
+git commit -m 'init repo'
+git config --local -l
+git commit -m 'init repo'
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit -m 'init repo'
+git status
+ls -la
+clear
+date
+ls -la
+git init
+git status
+git add .
+git status
+cd
+rm -r ./git
+rm -r ./.git
+sudo rm -r ./.git
+sudo rm -r ./.gtuconfig
+sudo rm -r ./.gitconfig
+ls -la
+clear
+date
+ls -la
+git init
+git status
+git branch -m main
+git add .
+git status
+git branch -m main
+git commit -m 'init repo'
+git config --global user.name "Your Name"
+git status
+git branch -m main
+git commit -m 'init repo'
+git config --global user.email "you@example.com"
+git status
+git branch -m main
+git commit -m 'init repo'
+git status
+git branch -m main
+git status
+git log --oneline
+git commit -m 'init repo'
+git add .
+git log --oneline
+git status
+git commit -m 'init repo'
+git status
+git log --oneline
+git status
+clear
+git remove -v
+git remote add origin https://github.com/fatee50/get-testmy.git
+git remove -v
+clear
+git remote -v
+git remote remove origin
+git remote -v
+clear
+date
+git remote -v
+git remote add origin https://github.com/fatee50/get-testmy.git
+git remote -v
+git push -u origin main
+git remote remove origin
+clear
+date
+git remote -v
+git remote add origin https://github.com/fatee50/get-testmy.git
+git remote -v
+git push -u origin main
+git remote add origin https://github.com/fatee50/get-testmy.git
+git push -u origin main
+git remote remove origin
+clear
+date
+git remote -v
+git remote add origin https://github.com/fateev50/get-testmy.git
+git remote -v
+git push -u origin main
+git remote remove origin
+clear
+date
+git remote -v
+git remote add origin https://github.com/fateev50/get-testmy.git
+git remote -v
+git push -u origin main
+clear
+git status
+ls -la
+git pull
+ls -la
+git log --oneline
+rm ./README.md
+ls -la
+clear
+date
+git pull
+ls -la
+git status
+git rm README.md
+clear
+date
+git pull
+git status
+git reser HEAD README.md
+git reset HEAD README.md
+git status
+git add .
+git status
+git pull
+git status
+git pull
+git status
+clear
+date
+git pull
+ls -la
+git log --oneline
+clear
